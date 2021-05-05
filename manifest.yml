@@ -1,6 +1,6 @@
 ---
 applications:
  - name: p1
-   random-route: true
+   host: p1.apps.internal
    memory: 64M
    
