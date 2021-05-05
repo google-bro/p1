@@ -2,6 +2,6 @@
 applications:
  - name: p1
    routes:
-   - route : p1.apps.internal
+   - route : p1-nice-emu-is.eu-gb.mybluemix.net
    memory: 64M
    
