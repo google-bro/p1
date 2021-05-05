@@ -1,6 +1,7 @@
 ---
 applications:
  - name: p1
-   host: p1.apps.internal
+   routes:
+    route : p1.apps.internal
    memory: 64M
    
